@@ -1,0 +1,6 @@
+[submodule "stationery-shop-api"]
+	path = stationery-shop-api
+	url = https://github.com/jordansaran/stationery-shop-api.git
+[submodule "stationery-shop-app"]
+	path = stationery-shop-app
+	url = https://github.com/jordansaran/stationery-shop-app.git
